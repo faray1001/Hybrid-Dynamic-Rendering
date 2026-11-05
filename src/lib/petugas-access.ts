@@ -1,7 +1,8 @@
 const DEFAULT_PETUGAS_EMAILS = [
   "lacak.smktibazma@gmail.com",
   "mochcomeback@gmail.com",
-  "mcakbarutama@gmail.com",
+  "s75784182@gmail.com",
+  
 ];
 
 const envPetugasEmails = process.env.PETUGAS_EMAILS
